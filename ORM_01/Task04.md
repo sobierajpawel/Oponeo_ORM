@@ -1,6 +1,6 @@
 ## Task 4
 
-### Creating migrations for application
+### Creating migrations for EF code-first approach
 
 1. Use the application created in the previous exercise and install package Microsoft.EntityFrameworkCore.Tools. Then restart Visual Studio.
 
