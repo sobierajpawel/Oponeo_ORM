@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Oponeo.Management.Patient.Persistence.Dapper\Oponeo.ManagementPatient.Persistence.Dapper.csproj" />
+    <ProjectReference Include="..\Oponeo.ManagementPatient.Application\Oponeo.ManagementPatient.Application.csproj" />
+    <ProjectReference Include="..\Oponeo.ManagementPatient.Persistence.EF\Oponeo.ManagementPatient.Persistence.EF.csproj" />
+  </ItemGroup>
+
+</Project>

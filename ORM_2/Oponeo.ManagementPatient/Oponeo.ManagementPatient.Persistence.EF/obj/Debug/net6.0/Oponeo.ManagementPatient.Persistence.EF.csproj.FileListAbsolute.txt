@@ -1,0 +1,17 @@
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.deps.json
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.runtimeconfig.json
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.csproj.AssemblyReference.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.AssemblyInfoInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.AssemblyInfo.cs
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.csproj.CoreCompileInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.csproj.CopyComplete
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\refint\Oponeo.ManagementPatient.Persistence.EF.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.EF.genruntimeconfig.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Persistence.EF\obj\Debug\net6.0\ref\Oponeo.ManagementPatient.Persistence.EF.dll

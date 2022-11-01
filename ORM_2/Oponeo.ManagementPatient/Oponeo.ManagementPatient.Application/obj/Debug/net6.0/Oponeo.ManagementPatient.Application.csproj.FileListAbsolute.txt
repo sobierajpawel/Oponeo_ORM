@@ -1,0 +1,15 @@
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\bin\Debug\net6.0\Oponeo.ManagementPatient.Application.deps.json
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\bin\Debug\net6.0\Oponeo.ManagementPatient.Application.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\bin\Debug\net6.0\Oponeo.ManagementPatient.Application.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.csproj.AssemblyReference.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.AssemblyInfoInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.AssemblyInfo.cs
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.csproj.CoreCompileInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.csproj.CopyComplete
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\refint\Oponeo.ManagementPatient.Application.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\Oponeo.ManagementPatient.Application.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Application\obj\Debug\net6.0\ref\Oponeo.ManagementPatient.Application.dll

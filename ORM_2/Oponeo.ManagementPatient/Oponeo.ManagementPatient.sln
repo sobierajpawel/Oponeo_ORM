@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Domain", "Oponeo.ManagementPatient.Domain\Oponeo.ManagementPatient.Domain.csproj", "{ACC02B20-004B-4967-B000-150F5FD04F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Application", "Oponeo.ManagementPatient.Application\Oponeo.ManagementPatient.Application.csproj", "{7F94E7E6-AAC4-4BB9-88A7-1807F7C1FADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Presentation", "Oponeo.ManagementPatient.Presentation\Oponeo.ManagementPatient.Presentation.csproj", "{7D233758-7BDA-42C8-B786-89E5F1EF01AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Persistence.EF", "Oponeo.ManagementPatient.Persistence.EF\Oponeo.ManagementPatient.Persistence.EF.csproj", "{97E4DD9A-9FAD-4B74-8DD8-8FE931EA3DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Persistence.EF.Tests", "Oponeo.ManagementPatient.Persistence.EF.Tests\Oponeo.ManagementPatient.Persistence.EF.Tests.csproj", "{4CF53C6E-671C-41C3-837C-829FF12D627B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oponeo.ManagementPatient.Persistence.Dapper", "Oponeo.Management.Patient.Persistence.Dapper\Oponeo.ManagementPatient.Persistence.Dapper.csproj", "{EC29E8CF-5E73-4F69-9DE7-7415D078EF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC02B20-004B-4967-B000-150F5FD04F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC02B20-004B-4967-B000-150F5FD04F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC02B20-004B-4967-B000-150F5FD04F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC02B20-004B-4967-B000-150F5FD04F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F94E7E6-AAC4-4BB9-88A7-1807F7C1FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F94E7E6-AAC4-4BB9-88A7-1807F7C1FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F94E7E6-AAC4-4BB9-88A7-1807F7C1FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F94E7E6-AAC4-4BB9-88A7-1807F7C1FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D233758-7BDA-42C8-B786-89E5F1EF01AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D233758-7BDA-42C8-B786-89E5F1EF01AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D233758-7BDA-42C8-B786-89E5F1EF01AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D233758-7BDA-42C8-B786-89E5F1EF01AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E4DD9A-9FAD-4B74-8DD8-8FE931EA3DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E4DD9A-9FAD-4B74-8DD8-8FE931EA3DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E4DD9A-9FAD-4B74-8DD8-8FE931EA3DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E4DD9A-9FAD-4B74-8DD8-8FE931EA3DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF53C6E-671C-41C3-837C-829FF12D627B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF53C6E-671C-41C3-837C-829FF12D627B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF53C6E-671C-41C3-837C-829FF12D627B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF53C6E-671C-41C3-837C-829FF12D627B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC29E8CF-5E73-4F69-9DE7-7415D078EF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC29E8CF-5E73-4F69-9DE7-7415D078EF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC29E8CF-5E73-4F69-9DE7-7415D078EF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC29E8CF-5E73-4F69-9DE7-7415D078EF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8004A66-52CC-48AF-82AB-8D290AA83B67}
+	EndGlobalSection
+EndGlobal

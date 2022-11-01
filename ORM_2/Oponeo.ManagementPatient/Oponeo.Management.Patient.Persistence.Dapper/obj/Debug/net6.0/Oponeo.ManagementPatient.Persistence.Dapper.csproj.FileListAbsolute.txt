@@ -1,0 +1,15 @@
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.deps.json
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\bin\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.csproj.AssemblyReference.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.AssemblyInfoInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.AssemblyInfo.cs
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.csproj.CopyComplete
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\refint\Oponeo.ManagementPatient.Persistence.Dapper.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\Oponeo.ManagementPatient.Persistence.Dapper.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.Management.Patient.Persistence.Dapper\obj\Debug\net6.0\ref\Oponeo.ManagementPatient.Persistence.Dapper.dll

@@ -1,0 +1,12 @@
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.deps.json
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\bin\Debug\net6.0\Oponeo.ManagementPatient.Domain.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.csproj.AssemblyReference.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.AssemblyInfoInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.AssemblyInfo.cs
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\refint\Oponeo.ManagementPatient.Domain.dll
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\Oponeo.ManagementPatient.Domain.pdb
+C:\Users\pso\source\repos\Oponeo.ManagementPatient\Oponeo.ManagementPatient.Domain\obj\Debug\net6.0\ref\Oponeo.ManagementPatient.Domain.dll
