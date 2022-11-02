@@ -4,7 +4,9 @@
 
 1. In the `Patient management` project attached to previous session add new persistence project for NHibernate `Persistence.NHibernate`
 
-2. Add `FluentNHibernateHelper` class like below.
+2. Add particular nuget packages 'NHibernate' 'FluentNHibernate' 'System.Data.SQLClient'
+
+3. Add `FluentNHibernateHelper` class like below.
 ```cs
  public static class FluentNHibernateHelper
     {
@@ -27,7 +29,7 @@
 
         }
 ```
-3. Add map classes for all entites
+4. Add map classes for all entites
 
 ```cs
 internal class DoctorMap : ClassMap<Doctor>
@@ -42,6 +44,6 @@ internal class DoctorMap : ClassMap<Doctor>
     }
 ```
 
-4. Implement all repositories using NHibernate ORM.
+5. Implement all repositories using NHibernate ORM.
 
-5. Provide implementations of repositories to the UI when service is invoked.
+6. Provide implementations of repositories to the UI when service is invoked.
