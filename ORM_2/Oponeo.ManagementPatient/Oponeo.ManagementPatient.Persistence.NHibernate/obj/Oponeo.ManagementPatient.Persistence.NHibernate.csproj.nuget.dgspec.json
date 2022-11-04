@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Persistence.NHibernate\\Oponeo.ManagementPatient.Persistence.NHibernate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\Oponeo.ManagementPatient.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\Oponeo.ManagementPatient.Domain.csproj",
+        "projectName": "Oponeo.ManagementPatient.Domain",
+        "projectPath": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\Oponeo.ManagementPatient.Domain.csproj",
+        "packagesPath": "C:\\Users\\pso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Persistence.NHibernate\\Oponeo.ManagementPatient.Persistence.NHibernate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Persistence.NHibernate\\Oponeo.ManagementPatient.Persistence.NHibernate.csproj",
+        "projectName": "Oponeo.ManagementPatient.Persistence.NHibernate",
+        "projectPath": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Persistence.NHibernate\\Oponeo.ManagementPatient.Persistence.NHibernate.csproj",
+        "packagesPath": "C:\\Users\\pso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Persistence.NHibernate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\Oponeo.ManagementPatient.Domain.csproj": {
+                "projectPath": "C:\\Users\\pso\\Documents\\GitHub\\Oponeo_ORM\\ORM_2\\Oponeo.ManagementPatient\\Oponeo.ManagementPatient.Domain\\Oponeo.ManagementPatient.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

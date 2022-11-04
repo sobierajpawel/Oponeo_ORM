@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oponeo.ManagementPatient.Application/1.0.0": {
+        "dependencies": {
+          "Oponeo.ManagementPatient.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Oponeo.ManagementPatient.Application.dll": {}
+        }
+      },
+      "Oponeo.ManagementPatient.Domain/1.0.0": {
+        "runtime": {
+          "Oponeo.ManagementPatient.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oponeo.ManagementPatient.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oponeo.ManagementPatient.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
